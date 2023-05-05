@@ -13,3 +13,13 @@ Music by <a href="https://pixabay.com/users/magnetic_trailer-27466606/?utm_sourc
 
 Lolipop-Waltz:
 Music by <a href="https://pixabay.com/users/k00sin-8059346/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=145969">K00sin</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=145969">Pixabay</a>
+
+
+Other resources I used to help make my game.
+
+
+gamesplusjames:
+<a href="https://www.youtube.com/watch?v=76WOa6IU_s8">Creating A Main Menu Screen</a>
+
+SkyanSam:
+<a href="https://www.youtube.com/watch?v=ev0HsmgLScg">How to make a Rhythm Game In Unity (using MIDI)</a>
